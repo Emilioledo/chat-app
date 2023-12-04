@@ -30,6 +30,6 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 # INSTALL AND RUN
-cd into chat-app
-npm i
-npm run dev
+cd into chat-app.
+npm i.
+npm run dev.
